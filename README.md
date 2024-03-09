@@ -1,0 +1,2 @@
+# IoT Project
+ This project implements communication functionalities via Bluetooth Low Energy (BLE) and WiFi using the ESP32 module. The code's purpose is to enable the transmission and reception of data between the ESP32 device and other devices through BLE or WiFi connections. It utilizes the BLEDevice, BLEServer, BLEClient, WiFi, HTTPClient, and ArduinoJson libraries to achieve the required functionalities.
